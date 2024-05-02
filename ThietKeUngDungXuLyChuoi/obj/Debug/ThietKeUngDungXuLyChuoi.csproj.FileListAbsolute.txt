@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\ThietKeUngDungXuLyChuoi\bin\Debug\ThietKeUngDungXuLyChuoi.exe.config
+D:\IT-VNUA\WinformCSharp\ThietKeUngDungXuLyChuoi\bin\Debug\ThietKeUngDungXuLyChuoi.exe
+D:\IT-VNUA\WinformCSharp\ThietKeUngDungXuLyChuoi\bin\Debug\ThietKeUngDungXuLyChuoi.pdb
+D:\IT-VNUA\WinformCSharp\ThietKeUngDungXuLyChuoi\obj\Debug\ThietKeUngDungXuLyChuoi.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\ThietKeUngDungXuLyChuoi\obj\Debug\ThietKeUngDungXuLyChuoi.Form1.resources
+D:\IT-VNUA\WinformCSharp\ThietKeUngDungXuLyChuoi\obj\Debug\ThietKeUngDungXuLyChuoi.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\ThietKeUngDungXuLyChuoi\obj\Debug\ThietKeUngDungXuLyChuoi.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\ThietKeUngDungXuLyChuoi\obj\Debug\ThietKeUngDungXuLyChuoi.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\ThietKeUngDungXuLyChuoi\obj\Debug\ThietKeUngDungXuLyChuoi.exe
+D:\IT-VNUA\WinformCSharp\ThietKeUngDungXuLyChuoi\obj\Debug\ThietKeUngDungXuLyChuoi.pdb

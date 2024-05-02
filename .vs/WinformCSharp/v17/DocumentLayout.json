@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT-VNUA\\WinformCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{533265C6-01D7-4C61-9186-59CECAA6D6AE}|DatetimePicker\\DatetimePicker.csproj|d:\\it-vnua\\winformcsharp\\datetimepicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{533265C6-01D7-4C61-9186-59CECAA6D6AE}|DatetimePicker\\DatetimePicker.csproj|solutionrelative:datetimepicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD01CEA-E6E1-4D96-8978-89C1E2F31D5C}|Checkbox\u0026Radiobtn\\Checkbox\u0026Radiobtn.csproj|D:\\IT-VNUA\\WinformCSharp\\checkbox\u0026radiobtn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBD01CEA-E6E1-4D96-8978-89C1E2F31D5C}|Checkbox\u0026Radiobtn\\Checkbox\u0026Radiobtn.csproj|solutionrelative:checkbox\u0026radiobtn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8312667D-5B6A-4243-BC2C-1B1054C2D7FD}|CheckedListbox\\CheckedListbox.csproj|D:\\IT-VNUA\\WinformCSharp\\checkedlistbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8312667D-5B6A-4243-BC2C-1B1054C2D7FD}|CheckedListbox\\CheckedListbox.csproj|solutionrelative:checkedlistbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\IT-VNUA\\WinformCSharp\\DatetimePicker\\Form1.cs",
+              "RelativeDocumentMoniker": "DatetimePicker\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\WinformCSharp\\DatetimePicker\\Form1.cs [Design]",
+              "RelativeToolTip": "DatetimePicker\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:49:35.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\IT-VNUA\\WinformCSharp\\CheckedListbox\\Form1.cs",
+              "RelativeDocumentMoniker": "CheckedListbox\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\WinformCSharp\\CheckedListbox\\Form1.cs [Design]",
+              "RelativeToolTip": "CheckedListbox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:46:49.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\IT-VNUA\\WinformCSharp\\Checkbox\u0026Radiobtn\\Form1.cs",
+              "RelativeDocumentMoniker": "Checkbox\u0026Radiobtn\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\WinformCSharp\\Checkbox\u0026Radiobtn\\Form1.cs [Design]",
+              "RelativeToolTip": "Checkbox\u0026Radiobtn\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:45:53.399Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

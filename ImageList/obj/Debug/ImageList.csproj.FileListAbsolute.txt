@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\ImageList\bin\Debug\ImageList.exe.config
+D:\IT-VNUA\WinformCSharp\ImageList\bin\Debug\ImageList.exe
+D:\IT-VNUA\WinformCSharp\ImageList\bin\Debug\ImageList.pdb
+D:\IT-VNUA\WinformCSharp\ImageList\obj\Debug\ImageList.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\ImageList\obj\Debug\ImageList.Form1.resources
+D:\IT-VNUA\WinformCSharp\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\ImageList\obj\Debug\ImageList.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\ImageList\obj\Debug\ImageList.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\ImageList\obj\Debug\ImageList.exe
+D:\IT-VNUA\WinformCSharp\ImageList\obj\Debug\ImageList.pdb

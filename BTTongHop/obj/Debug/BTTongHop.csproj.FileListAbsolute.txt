@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\BTTongHop\bin\Debug\BTTongHop.exe.config
+D:\IT-VNUA\WinformCSharp\BTTongHop\bin\Debug\BTTongHop.exe
+D:\IT-VNUA\WinformCSharp\BTTongHop\bin\Debug\BTTongHop.pdb
+D:\IT-VNUA\WinformCSharp\BTTongHop\obj\Debug\BTTongHop.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\BTTongHop\obj\Debug\BTTongHop.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\BTTongHop\obj\Debug\BTTongHop.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\BTTongHop\obj\Debug\BTTongHop.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\BTTongHop\obj\Debug\BTTongHop.exe
+D:\IT-VNUA\WinformCSharp\BTTongHop\obj\Debug\BTTongHop.pdb
+D:\IT-VNUA\WinformCSharp\BTTongHop\obj\Debug\BTTongHop.frmQLSP.resources

@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\ColorDialog\bin\Debug\ColorDialog.exe.config
+D:\IT-VNUA\WinformCSharp\ColorDialog\bin\Debug\ColorDialog.exe
+D:\IT-VNUA\WinformCSharp\ColorDialog\bin\Debug\ColorDialog.pdb
+D:\IT-VNUA\WinformCSharp\ColorDialog\obj\Debug\ColorDialog.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\ColorDialog\obj\Debug\ColorDialog.Form1.resources
+D:\IT-VNUA\WinformCSharp\ColorDialog\obj\Debug\ColorDialog.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\ColorDialog\obj\Debug\ColorDialog.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\ColorDialog\obj\Debug\ColorDialog.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\ColorDialog\obj\Debug\ColorDialog.exe
+D:\IT-VNUA\WinformCSharp\ColorDialog\obj\Debug\ColorDialog.pdb

@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\Listbox\bin\Debug\Listbox.exe.config
+D:\IT-VNUA\WinformCSharp\Listbox\bin\Debug\Listbox.exe
+D:\IT-VNUA\WinformCSharp\Listbox\bin\Debug\Listbox.pdb
+D:\IT-VNUA\WinformCSharp\Listbox\obj\Debug\Listbox.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\Listbox\obj\Debug\Listbox.Form1.resources
+D:\IT-VNUA\WinformCSharp\Listbox\obj\Debug\Listbox.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\Listbox\obj\Debug\Listbox.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\Listbox\obj\Debug\Listbox.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\Listbox\obj\Debug\Listbox.exe
+D:\IT-VNUA\WinformCSharp\Listbox\obj\Debug\Listbox.pdb

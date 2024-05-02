@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\CheckedListbox\bin\Debug\CheckedListbox.exe.config
+D:\IT-VNUA\WinformCSharp\CheckedListbox\bin\Debug\CheckedListbox.exe
+D:\IT-VNUA\WinformCSharp\CheckedListbox\bin\Debug\CheckedListbox.pdb
+D:\IT-VNUA\WinformCSharp\CheckedListbox\obj\Debug\CheckedListbox.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\CheckedListbox\obj\Debug\CheckedListbox.Form1.resources
+D:\IT-VNUA\WinformCSharp\CheckedListbox\obj\Debug\CheckedListbox.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\CheckedListbox\obj\Debug\CheckedListbox.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\CheckedListbox\obj\Debug\CheckedListbox.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\CheckedListbox\obj\Debug\CheckedListbox.exe
+D:\IT-VNUA\WinformCSharp\CheckedListbox\obj\Debug\CheckedListbox.pdb

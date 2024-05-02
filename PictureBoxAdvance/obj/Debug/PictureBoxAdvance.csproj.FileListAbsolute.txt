@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\PictureBoxAdvance\bin\Debug\PictureBoxAdvance.exe.config
+D:\IT-VNUA\WinformCSharp\PictureBoxAdvance\bin\Debug\PictureBoxAdvance.exe
+D:\IT-VNUA\WinformCSharp\PictureBoxAdvance\bin\Debug\PictureBoxAdvance.pdb
+D:\IT-VNUA\WinformCSharp\PictureBoxAdvance\obj\Debug\PictureBoxAdvance.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\PictureBoxAdvance\obj\Debug\PictureBoxAdvance.Form1.resources
+D:\IT-VNUA\WinformCSharp\PictureBoxAdvance\obj\Debug\PictureBoxAdvance.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\PictureBoxAdvance\obj\Debug\PictureBoxAdvance.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\PictureBoxAdvance\obj\Debug\PictureBoxAdvance.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\PictureBoxAdvance\obj\Debug\PictureBoxAdvance.exe
+D:\IT-VNUA\WinformCSharp\PictureBoxAdvance\obj\Debug\PictureBoxAdvance.pdb

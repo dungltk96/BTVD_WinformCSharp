@@ -1,0 +1,9 @@
+D:\IT-VNUA\WinformCSharp\MenuAndContextMenu\bin\Debug\MenuAndContextMenu.exe.config
+D:\IT-VNUA\WinformCSharp\MenuAndContextMenu\bin\Debug\MenuAndContextMenu.exe
+D:\IT-VNUA\WinformCSharp\MenuAndContextMenu\bin\Debug\MenuAndContextMenu.pdb
+D:\IT-VNUA\WinformCSharp\MenuAndContextMenu\obj\Debug\MenuAndContextMenu.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\MenuAndContextMenu\obj\Debug\MenuAndContextMenu.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\MenuAndContextMenu\obj\Debug\MenuAndContextMenu.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\MenuAndContextMenu\obj\Debug\MenuAndContextMenu.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\MenuAndContextMenu\obj\Debug\MenuAndContextMenu.exe
+D:\IT-VNUA\WinformCSharp\MenuAndContextMenu\obj\Debug\MenuAndContextMenu.pdb

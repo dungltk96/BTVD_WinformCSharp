@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\Timer\bin\Debug\Timer.exe.config
+D:\IT-VNUA\WinformCSharp\Timer\bin\Debug\Timer.exe
+D:\IT-VNUA\WinformCSharp\Timer\bin\Debug\Timer.pdb
+D:\IT-VNUA\WinformCSharp\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\Timer\obj\Debug\Timer.frm1.resources
+D:\IT-VNUA\WinformCSharp\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\Timer\obj\Debug\Timer.exe
+D:\IT-VNUA\WinformCSharp\Timer\obj\Debug\Timer.pdb

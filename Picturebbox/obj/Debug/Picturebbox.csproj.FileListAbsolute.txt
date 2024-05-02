@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\Picturebbox\bin\Debug\Picturebbox.exe.config
+D:\IT-VNUA\WinformCSharp\Picturebbox\bin\Debug\Picturebbox.exe
+D:\IT-VNUA\WinformCSharp\Picturebbox\bin\Debug\Picturebbox.pdb
+D:\IT-VNUA\WinformCSharp\Picturebbox\obj\Debug\Picturebbox.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\Picturebbox\obj\Debug\Picturebbox.Form1.resources
+D:\IT-VNUA\WinformCSharp\Picturebbox\obj\Debug\Picturebbox.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\Picturebbox\obj\Debug\Picturebbox.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\Picturebbox\obj\Debug\Picturebbox.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\Picturebbox\obj\Debug\Picturebbox.exe
+D:\IT-VNUA\WinformCSharp\Picturebbox\obj\Debug\Picturebbox.pdb

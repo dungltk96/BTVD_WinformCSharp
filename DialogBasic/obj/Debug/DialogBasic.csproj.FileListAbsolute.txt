@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\DialogBasic\bin\Debug\DialogBasic.exe.config
+D:\IT-VNUA\WinformCSharp\DialogBasic\bin\Debug\DialogBasic.exe
+D:\IT-VNUA\WinformCSharp\DialogBasic\bin\Debug\DialogBasic.pdb
+D:\IT-VNUA\WinformCSharp\DialogBasic\obj\Debug\DialogBasic.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\DialogBasic\obj\Debug\DialogBasic.Form1.resources
+D:\IT-VNUA\WinformCSharp\DialogBasic\obj\Debug\DialogBasic.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\DialogBasic\obj\Debug\DialogBasic.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\DialogBasic\obj\Debug\DialogBasic.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\DialogBasic\obj\Debug\DialogBasic.exe
+D:\IT-VNUA\WinformCSharp\DialogBasic\obj\Debug\DialogBasic.pdb

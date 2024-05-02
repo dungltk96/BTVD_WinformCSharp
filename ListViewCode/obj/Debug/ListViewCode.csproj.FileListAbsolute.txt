@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BTNew\ListViewCode\bin\Debug\ListViewCode.exe.config
+C:\Users\Admin\source\repos\BTNew\ListViewCode\bin\Debug\ListViewCode.exe
+C:\Users\Admin\source\repos\BTNew\ListViewCode\bin\Debug\ListViewCode.pdb
+C:\Users\Admin\source\repos\BTNew\ListViewCode\obj\Debug\ListViewCode.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BTNew\ListViewCode\obj\Debug\ListViewCode.Form1.resources
+C:\Users\Admin\source\repos\BTNew\ListViewCode\obj\Debug\ListViewCode.Properties.Resources.resources
+C:\Users\Admin\source\repos\BTNew\ListViewCode\obj\Debug\ListViewCode.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BTNew\ListViewCode\obj\Debug\ListViewCode.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BTNew\ListViewCode\obj\Debug\ListViewCode.exe
+C:\Users\Admin\source\repos\BTNew\ListViewCode\obj\Debug\ListViewCode.pdb

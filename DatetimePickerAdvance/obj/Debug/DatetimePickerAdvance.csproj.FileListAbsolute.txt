@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\DatetimePickerAdvance\bin\Debug\DatetimePickerAdvance.exe.config
+D:\IT-VNUA\WinformCSharp\DatetimePickerAdvance\bin\Debug\DatetimePickerAdvance.exe
+D:\IT-VNUA\WinformCSharp\DatetimePickerAdvance\bin\Debug\DatetimePickerAdvance.pdb
+D:\IT-VNUA\WinformCSharp\DatetimePickerAdvance\obj\Debug\DatetimePickerAdvance.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\DatetimePickerAdvance\obj\Debug\DatetimePickerAdvance.frmĐK.resources
+D:\IT-VNUA\WinformCSharp\DatetimePickerAdvance\obj\Debug\DatetimePickerAdvance.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\DatetimePickerAdvance\obj\Debug\DatetimePickerAdvance.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\DatetimePickerAdvance\obj\Debug\DatetimePickerAdvance.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\DatetimePickerAdvance\obj\Debug\DatetimePickerAdvance.exe
+D:\IT-VNUA\WinformCSharp\DatetimePickerAdvance\obj\Debug\DatetimePickerAdvance.pdb

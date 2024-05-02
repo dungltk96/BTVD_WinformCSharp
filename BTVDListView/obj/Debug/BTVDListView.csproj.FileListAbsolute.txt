@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BTNew\BTVDListView\bin\Debug\BTVDListView.exe.config
+C:\Users\Admin\source\repos\BTNew\BTVDListView\bin\Debug\BTVDListView.exe
+C:\Users\Admin\source\repos\BTNew\BTVDListView\bin\Debug\BTVDListView.pdb
+C:\Users\Admin\source\repos\BTNew\BTVDListView\obj\Debug\BTVDListView.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BTNew\BTVDListView\obj\Debug\BTVDListView.Form1.resources
+C:\Users\Admin\source\repos\BTNew\BTVDListView\obj\Debug\BTVDListView.Properties.Resources.resources
+C:\Users\Admin\source\repos\BTNew\BTVDListView\obj\Debug\BTVDListView.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BTNew\BTVDListView\obj\Debug\BTVDListView.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BTNew\BTVDListView\obj\Debug\BTVDListView.exe
+C:\Users\Admin\source\repos\BTNew\BTVDListView\obj\Debug\BTVDListView.pdb

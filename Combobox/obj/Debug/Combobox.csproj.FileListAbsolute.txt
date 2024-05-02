@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\Combobox\bin\Debug\Combobox.exe.config
+D:\IT-VNUA\WinformCSharp\Combobox\bin\Debug\Combobox.exe
+D:\IT-VNUA\WinformCSharp\Combobox\bin\Debug\Combobox.pdb
+D:\IT-VNUA\WinformCSharp\Combobox\obj\Debug\Combobox.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\Combobox\obj\Debug\Combobox.Form1.resources
+D:\IT-VNUA\WinformCSharp\Combobox\obj\Debug\Combobox.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\Combobox\obj\Debug\Combobox.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\Combobox\obj\Debug\Combobox.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\Combobox\obj\Debug\Combobox.exe
+D:\IT-VNUA\WinformCSharp\Combobox\obj\Debug\Combobox.pdb

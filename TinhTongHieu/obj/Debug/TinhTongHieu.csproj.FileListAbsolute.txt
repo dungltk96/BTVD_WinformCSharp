@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\TinhTongHieu\bin\Debug\TinhTongHieu.exe.config
+D:\IT-VNUA\WinformCSharp\TinhTongHieu\bin\Debug\TinhTongHieu.exe
+D:\IT-VNUA\WinformCSharp\TinhTongHieu\bin\Debug\TinhTongHieu.pdb
+D:\IT-VNUA\WinformCSharp\TinhTongHieu\obj\Debug\TinhTongHieu.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\TinhTongHieu\obj\Debug\TinhTongHieu.Form1.resources
+D:\IT-VNUA\WinformCSharp\TinhTongHieu\obj\Debug\TinhTongHieu.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\TinhTongHieu\obj\Debug\TinhTongHieu.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\TinhTongHieu\obj\Debug\TinhTongHieu.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\TinhTongHieu\obj\Debug\TinhTongHieu.exe
+D:\IT-VNUA\WinformCSharp\TinhTongHieu\obj\Debug\TinhTongHieu.pdb

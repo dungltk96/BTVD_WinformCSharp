@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\ShowAndShowDialog\bin\Debug\ShowAndShowDialog.exe.config
+D:\IT-VNUA\WinformCSharp\ShowAndShowDialog\bin\Debug\ShowAndShowDialog.exe
+D:\IT-VNUA\WinformCSharp\ShowAndShowDialog\bin\Debug\ShowAndShowDialog.pdb
+D:\IT-VNUA\WinformCSharp\ShowAndShowDialog\obj\Debug\ShowAndShowDialog.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\ShowAndShowDialog\obj\Debug\ShowAndShowDialog.Form.resources
+D:\IT-VNUA\WinformCSharp\ShowAndShowDialog\obj\Debug\ShowAndShowDialog.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\ShowAndShowDialog\obj\Debug\ShowAndShowDialog.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\ShowAndShowDialog\obj\Debug\ShowAndShowDialog.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\ShowAndShowDialog\obj\Debug\ShowAndShowDialog.exe
+D:\IT-VNUA\WinformCSharp\ShowAndShowDialog\obj\Debug\ShowAndShowDialog.pdb

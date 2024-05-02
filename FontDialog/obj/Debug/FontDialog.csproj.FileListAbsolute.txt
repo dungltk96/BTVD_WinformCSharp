@@ -1,0 +1,10 @@
+D:\IT-VNUA\WinformCSharp\FontDialog\bin\Debug\FontDialog.exe.config
+D:\IT-VNUA\WinformCSharp\FontDialog\bin\Debug\FontDialog.exe
+D:\IT-VNUA\WinformCSharp\FontDialog\bin\Debug\FontDialog.pdb
+D:\IT-VNUA\WinformCSharp\FontDialog\obj\Debug\FontDialog.csproj.AssemblyReference.cache
+D:\IT-VNUA\WinformCSharp\FontDialog\obj\Debug\FontDialog.Form1.resources
+D:\IT-VNUA\WinformCSharp\FontDialog\obj\Debug\FontDialog.Properties.Resources.resources
+D:\IT-VNUA\WinformCSharp\FontDialog\obj\Debug\FontDialog.csproj.GenerateResource.cache
+D:\IT-VNUA\WinformCSharp\FontDialog\obj\Debug\FontDialog.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\WinformCSharp\FontDialog\obj\Debug\FontDialog.exe
+D:\IT-VNUA\WinformCSharp\FontDialog\obj\Debug\FontDialog.pdb
