@@ -50,9 +50,9 @@
             this.lblDangKyThiLX.AutoSize = true;
             this.lblDangKyThiLX.Location = new System.Drawing.Point(60, 44);
             this.lblDangKyThiLX.Name = "lblDangKyThiLX";
-            this.lblDangKyThiLX.Size = new System.Drawing.Size(437, 32);
+            this.lblDangKyThiLX.Size = new System.Drawing.Size(544, 32);
             this.lblDangKyThiLX.TabIndex = 0;
-            this.lblDangKyThiLX.Text = "Đăng ký thi tuyển giấy phép lái xe";
+            this.lblDangKyThiLX.Text = "Update_Đăng ký thi tuyển giấy phép lái xe";
             this.lblDangKyThiLX.Click += new System.EventHandler(this.lblDangKyThiLX_Click);
             // 
             // lblHoTen
