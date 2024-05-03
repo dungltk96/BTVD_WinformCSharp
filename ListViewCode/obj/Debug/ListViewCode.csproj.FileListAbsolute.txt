@@ -8,3 +8,13 @@ C:\Users\Admin\source\repos\BTNew\ListViewCode\obj\Debug\ListViewCode.csproj.Gen
 C:\Users\Admin\source\repos\BTNew\ListViewCode\obj\Debug\ListViewCode.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\BTNew\ListViewCode\obj\Debug\ListViewCode.exe
 C:\Users\Admin\source\repos\BTNew\ListViewCode\obj\Debug\ListViewCode.pdb
+D:\University\BTVD_WinformCSharp\ListViewCode\bin\Debug\ListViewCode.exe.config
+D:\University\BTVD_WinformCSharp\ListViewCode\bin\Debug\ListViewCode.exe
+D:\University\BTVD_WinformCSharp\ListViewCode\bin\Debug\ListViewCode.pdb
+D:\University\BTVD_WinformCSharp\ListViewCode\obj\Debug\ListViewCode.csproj.AssemblyReference.cache
+D:\University\BTVD_WinformCSharp\ListViewCode\obj\Debug\ListViewCode.Form1.resources
+D:\University\BTVD_WinformCSharp\ListViewCode\obj\Debug\ListViewCode.Properties.Resources.resources
+D:\University\BTVD_WinformCSharp\ListViewCode\obj\Debug\ListViewCode.csproj.GenerateResource.cache
+D:\University\BTVD_WinformCSharp\ListViewCode\obj\Debug\ListViewCode.csproj.CoreCompileInputs.cache
+D:\University\BTVD_WinformCSharp\ListViewCode\obj\Debug\ListViewCode.exe
+D:\University\BTVD_WinformCSharp\ListViewCode\obj\Debug\ListViewCode.pdb

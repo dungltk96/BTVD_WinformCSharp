@@ -31,7 +31,7 @@ namespace DialogBasic
             openFileDialog1.Filter = "(*.jpg)|*.jpg|(*.png)|*.png";
 
             //Cách 2: Show tất cả các đuôi ảnh
-            openFileDialog1.Filter = "(*.png;*.jpg)|*.png;*.jpg";
+            //openFileDialog1.Filter = "(*.png;*.jpg)|*.png;*.jpg";
         }
 
         private void openFileDialog1_FileOk(object sender, CancelEventArgs e)

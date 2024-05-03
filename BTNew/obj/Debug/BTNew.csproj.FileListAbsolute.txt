@@ -1,9 +1,0 @@
-C:\Users\Admin\source\repos\BTNew\BTNew\bin\Debug\BTNew.exe.config
-C:\Users\Admin\source\repos\BTNew\BTNew\bin\Debug\BTNew.exe
-C:\Users\Admin\source\repos\BTNew\BTNew\bin\Debug\BTNew.pdb
-C:\Users\Admin\source\repos\BTNew\BTNew\obj\Debug\BTNew.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\BTNew\BTNew\obj\Debug\BTNew.Properties.Resources.resources
-C:\Users\Admin\source\repos\BTNew\BTNew\obj\Debug\BTNew.csproj.GenerateResource.cache
-C:\Users\Admin\source\repos\BTNew\BTNew\obj\Debug\BTNew.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\BTNew\BTNew\obj\Debug\BTNew.exe
-C:\Users\Admin\source\repos\BTNew\BTNew\obj\Debug\BTNew.pdb
