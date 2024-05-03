@@ -18,3 +18,13 @@ D:\University\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.csproj.GenerateRe
 D:\University\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.csproj.CoreCompileInputs.cache
 D:\University\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.exe
 D:\University\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.pdb
+D:\IT-VNUA\BTVD_WinformCSharp\BTTH_QLSP\bin\Debug\BTTH_QLSP.exe.config
+D:\IT-VNUA\BTVD_WinformCSharp\BTTH_QLSP\bin\Debug\BTTH_QLSP.exe
+D:\IT-VNUA\BTVD_WinformCSharp\BTTH_QLSP\bin\Debug\BTTH_QLSP.pdb
+D:\IT-VNUA\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.csproj.AssemblyReference.cache
+D:\IT-VNUA\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.Form1.resources
+D:\IT-VNUA\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.Properties.Resources.resources
+D:\IT-VNUA\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.csproj.GenerateResource.cache
+D:\IT-VNUA\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.exe
+D:\IT-VNUA\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.pdb
