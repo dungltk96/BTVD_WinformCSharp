@@ -116,7 +116,6 @@ namespace BTTH_QLSP
             cbbDanhMuc.Items.Add(DienThoaiDiDong);
             cbbDanhMuc.Items.Add(Laptop);
             cbbDanhMuc.Items.Add(MayTinhBang);
-
         }
 
         private void tvDanhMuc_AfterSelect(object sender, TreeViewEventArgs e)
@@ -172,6 +171,53 @@ namespace BTTH_QLSP
             string[] arr = lvi.SubItems[4].Text.Split('/');
             dtpNgaySX.Value = new DateTime(int.Parse(arr[2]), int.Parse(arr[1]), int.Parse(arr[0]));
             cbbDanhMuc.Text = lvi.SubItems[5].Text;
+        }
+
+        private void btnSua_Click(object sender, EventArgs e)
+        {
+            if (lvDanhSachSP.SelectedItems.Count > 0)
+            {
+                string maSP = txtMaSP.Text.Trim();
+                string tenSP = txtTenSP.Text.Trim();
+                string donGia = txtDonGia.Text.Trim();
+                string xuatXu = txtXuatXu.Text.Trim();
+                string ngaySX = dtpNgaySX.Text.Trim();
+                string danhMuc = cbbDanhMuc.Text.Trim(); 
+
+                ListViewItem lvi = lvDanhSachSP.SelectedItems[0];
+                lvi.SubItems[0].Text = maSP;
+                lvi.SubItems[1].Text = tenSP;
+                lvi.SubItems[2].Text = donGia;
+                lvi.SubItems[3].Text = xuatXu;
+                lvi.SubItems[4].Text = ngaySX;
+                lvi.SubItems[5].Text = danhMuc;
+            }
+        }
+
+        private void btnXoa_Click(object sender, EventArgs e)
+        {
+            DanhMuc danhMucSelected = cbbDanhMuc.SelectedItem as DanhMuc;
+            string maSP = txtMaSP.Text.Trim();
+            
+            foreach(DanhMuc itemDM in ListDM)
+            {
+                if (danhMucSelected.ID == itemDM.ID) 
+                {
+                    foreach(SanPham itemSP in itemDM.ListSP)
+                    {
+                        if(maSP == itemSP.ID)
+                        {
+                            itemDM.ListSP.Remove(itemSP);
+                            return;
+                        }
+                    }
+                }
+            }
+        }
+
+        private void cbbDanhMuc_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -8,3 +8,13 @@ C:\Users\Admin\source\repos\BTNew\BTVDListView\obj\Debug\BTVDListView.csproj.Gen
 C:\Users\Admin\source\repos\BTNew\BTVDListView\obj\Debug\BTVDListView.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\BTNew\BTVDListView\obj\Debug\BTVDListView.exe
 C:\Users\Admin\source\repos\BTNew\BTVDListView\obj\Debug\BTVDListView.pdb
+D:\University\BTVD_WinformCSharp\BTVDListView\bin\Debug\BTVDListView.exe.config
+D:\University\BTVD_WinformCSharp\BTVDListView\bin\Debug\BTVDListView.exe
+D:\University\BTVD_WinformCSharp\BTVDListView\bin\Debug\BTVDListView.pdb
+D:\University\BTVD_WinformCSharp\BTVDListView\obj\Debug\BTVDListView.csproj.AssemblyReference.cache
+D:\University\BTVD_WinformCSharp\BTVDListView\obj\Debug\BTVDListView.Form1.resources
+D:\University\BTVD_WinformCSharp\BTVDListView\obj\Debug\BTVDListView.Properties.Resources.resources
+D:\University\BTVD_WinformCSharp\BTVDListView\obj\Debug\BTVDListView.csproj.GenerateResource.cache
+D:\University\BTVD_WinformCSharp\BTVDListView\obj\Debug\BTVDListView.csproj.CoreCompileInputs.cache
+D:\University\BTVD_WinformCSharp\BTVDListView\obj\Debug\BTVDListView.exe
+D:\University\BTVD_WinformCSharp\BTVDListView\obj\Debug\BTVDListView.pdb

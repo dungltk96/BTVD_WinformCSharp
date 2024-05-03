@@ -8,3 +8,13 @@ D:\IT-VNUA\WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.csproj.GenerateResource.c
 D:\IT-VNUA\WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.csproj.CoreCompileInputs.cache
 D:\IT-VNUA\WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.exe
 D:\IT-VNUA\WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.pdb
+D:\University\BTVD_WinformCSharp\BTTH_QLSP\bin\Debug\BTTH_QLSP.exe.config
+D:\University\BTVD_WinformCSharp\BTTH_QLSP\bin\Debug\BTTH_QLSP.exe
+D:\University\BTVD_WinformCSharp\BTTH_QLSP\bin\Debug\BTTH_QLSP.pdb
+D:\University\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.csproj.AssemblyReference.cache
+D:\University\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.Form1.resources
+D:\University\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.Properties.Resources.resources
+D:\University\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.csproj.GenerateResource.cache
+D:\University\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.csproj.CoreCompileInputs.cache
+D:\University\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.exe
+D:\University\BTVD_WinformCSharp\BTTH_QLSP\obj\Debug\BTTH_QLSP.pdb
