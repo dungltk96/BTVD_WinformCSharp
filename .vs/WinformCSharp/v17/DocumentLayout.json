@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\IT-VNUA\\BTVD_WinformCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBD01CEA-E6E1-4D96-8978-89C1E2F31D5C}|Checkbox\u0026Radiobtn\\Checkbox\u0026Radiobtn.csproj|D:\\IT-VNUA\\BTVD_WinformCSharp\\checkbox\u0026radiobtn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BBD01CEA-E6E1-4D96-8978-89C1E2F31D5C}|Checkbox\u0026Radiobtn\\Checkbox\u0026Radiobtn.csproj|solutionrelative:checkbox\u0026radiobtn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IT-VNUA\\BTVD_WinformCSharp\\ConnectVSToSQL\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConnectVSToSQL\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6BBC2C5-D7EF-4DFF-92BA-EDF0A380DB19}|BTTH_QLSP\\BTTH_QLSP.csproj|d:\\it-vnua\\btvd_winformcsharp\\btth_qlsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3BF4CFBC-1D6A-48CF-889A-7388BF3BE819}|BTTongHop\\BTTongHop.csproj|D:\\IT-VNUA\\BTVD_WinformCSharp\\bttonghop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BF4CFBC-1D6A-48CF-889A-7388BF3BE819}|BTTongHop\\BTTongHop.csproj|solutionrelative:bttonghop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BBC2C5-D7EF-4DFF-92BA-EDF0A380DB19}|BTTH_QLSP\\BTTH_QLSP.csproj|D:\\IT-VNUA\\BTVD_WinformCSharp\\btth_qlsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A6BBC2C5-D7EF-4DFF-92BA-EDF0A380DB19}|BTTH_QLSP\\BTTH_QLSP.csproj|solutionrelative:btth_qlsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{533265C6-01D7-4C61-9186-59CECAA6D6AE}|DatetimePicker\\DatetimePicker.csproj|d:\\it-vnua\\btvd_winformcsharp\\datetimepicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{533265C6-01D7-4C61-9186-59CECAA6D6AE}|DatetimePicker\\DatetimePicker.csproj|solutionrelative:datetimepicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8312667D-5B6A-4243-BC2C-1B1054C2D7FD}|CheckedListbox\\CheckedListbox.csproj|D:\\IT-VNUA\\BTVD_WinformCSharp\\checkedlistbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8312667D-5B6A-4243-BC2C-1B1054C2D7FD}|CheckedListbox\\CheckedListbox.csproj|solutionrelative:checkedlistbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\it-vnua\\btvd_winformcsharp\\connectvstosql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:connectvstosql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +26,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ConnectVSToSQL\\Form1.cs",
+              "RelativeDocumentMoniker": "ConnectVSToSQL\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ConnectVSToSQL\\Form1.cs",
+              "RelativeToolTip": "ConnectVSToSQL\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:11:06.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ConnectVSToSQL\\Form1.cs",
+              "RelativeDocumentMoniker": "ConnectVSToSQL\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ConnectVSToSQL\\Form1.cs [Design]",
+              "RelativeToolTip": "ConnectVSToSQL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T07:33:25.92Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\BTTongHop\\Form1.cs",
+              "RelativeDocumentMoniker": "BTTongHop\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\BTTongHop\\Form1.cs [Design]",
+              "RelativeToolTip": "BTTongHop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:28:54.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\BTTH_QLSP\\Form1.cs",
               "RelativeDocumentMoniker": "BTTH_QLSP\\Form1.cs",
               "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\BTTH_QLSP\\Form1.cs [Design]",
               "RelativeToolTip": "BTTH_QLSP\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T16:30:18.075Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\DatetimePicker\\Form1.cs",
-              "RelativeDocumentMoniker": "DatetimePicker\\Form1.cs",
-              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\DatetimePicker\\Form1.cs [Design]",
-              "RelativeToolTip": "DatetimePicker\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T11:49:35.838Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\CheckedListbox\\Form1.cs",
-              "RelativeDocumentMoniker": "CheckedListbox\\Form1.cs",
-              "ToolTip": "D:\\IT-VNUA\\WinformCSharp\\CheckedListbox\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\WinformCSharp\\CheckedListbox\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T11:46:49.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\Checkbox\u0026Radiobtn\\Form1.cs",
-              "RelativeDocumentMoniker": "Checkbox\u0026Radiobtn\\Form1.cs",
-              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\Checkbox\u0026Radiobtn\\Form1.cs [Design]",
-              "RelativeToolTip": "Checkbox\u0026Radiobtn\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T11:45:53.399Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-05T02:28:33.117Z"
             }
           ]
         }
