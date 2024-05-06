@@ -18,3 +18,13 @@ D:\IT-VNUA\WinformCSharp\Hello\obj\Debug\Hello.csproj.GenerateResource.cache
 D:\IT-VNUA\WinformCSharp\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
 D:\IT-VNUA\WinformCSharp\Hello\obj\Debug\Hello.exe
 D:\IT-VNUA\WinformCSharp\Hello\obj\Debug\Hello.pdb
+D:\IT-VNUA\BTVD_WinformCSharp\Hello\bin\Debug\Hello.exe.config
+D:\IT-VNUA\BTVD_WinformCSharp\Hello\bin\Debug\Hello.exe
+D:\IT-VNUA\BTVD_WinformCSharp\Hello\bin\Debug\Hello.pdb
+D:\IT-VNUA\BTVD_WinformCSharp\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+D:\IT-VNUA\BTVD_WinformCSharp\Hello\obj\Debug\Hello.Form1.resources
+D:\IT-VNUA\BTVD_WinformCSharp\Hello\obj\Debug\Hello.Properties.Resources.resources
+D:\IT-VNUA\BTVD_WinformCSharp\Hello\obj\Debug\Hello.csproj.GenerateResource.cache
+D:\IT-VNUA\BTVD_WinformCSharp\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\IT-VNUA\BTVD_WinformCSharp\Hello\obj\Debug\Hello.exe
+D:\IT-VNUA\BTVD_WinformCSharp\Hello\obj\Debug\Hello.pdb
