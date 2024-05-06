@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BTTH_QLSP.Models
 {
+    [Serializable]
     public class SanPham
     {
         public string ID { get; set; }

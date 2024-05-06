@@ -74,7 +74,7 @@ namespace BTTH_QLSP
             ListDM.Add(Laptop);
 
             // Tạo ra các sản phẩm
-            SanPham IP11 = new SanPham()
+            /*SanPham IP11 = new SanPham()
             {
                 ID = "IP01",
                 Name = "IP11 ProMax",
@@ -109,7 +109,7 @@ namespace BTTH_QLSP
             SamsungS23ultra.isDanhMuc = DienThoaiDiDong;
 
             DienThoaiDiDong.ListSP.Add(IP15);
-            IP15.isDanhMuc = DienThoaiDiDong;
+            IP15.isDanhMuc = DienThoaiDiDong;*/
 
             // Hiển thị danh mục lên trên combobox
             cbbDanhMuc.Items.Clear();
@@ -218,6 +218,31 @@ namespace BTTH_QLSP
         private void cbbDanhMuc_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnGhiFile_Click(object sender, EventArgs e)
+        {
+            if(saveFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                bool kq = Files.LuuFile(ListDM, saveFileDialog1.FileName);  
+                if(kq == true)
+                {
+                    MessageBox.Show("Lưu thành công!");
+                }
+                else
+                {
+                    MessageBox.Show("Lưu thất bại!");
+                }
+            }
+        }
+
+        private void btnDocFile_Click(object sender, EventArgs e)
+        {
+            if(openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                ListDM = Files.DocFile(openFileDialog1.FileName);
+                HienThiDanhMuc();
+            }
         }
     }
 }
