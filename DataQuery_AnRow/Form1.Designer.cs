@@ -73,6 +73,7 @@
             this.lviDSSP.TabIndex = 2;
             this.lviDSSP.UseCompatibleStateImageBehavior = false;
             this.lviDSSP.View = System.Windows.Forms.View.Details;
+            this.lviDSSP.SelectedIndexChanged += new System.EventHandler(this.lviDSSP_SelectedIndexChanged);
             // 
             // maVT
             // 
