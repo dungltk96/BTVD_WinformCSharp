@@ -55,5 +55,10 @@ namespace DataQuery_AnRow
             }
             reader.Close();
         }
+
+        private void lviDSSP_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\IT-VNUA\\BTVD_WinformCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29A1620C-F2CD-425D-8FB6-EEA5EBB4C429}|DSDonDatHangTheoNCC\\DSDonDatHangTheoNCC.csproj|d:\\it-vnua\\btvd_winformcsharp\\dsdondathangtheoncc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29A1620C-F2CD-425D-8FB6-EEA5EBB4C429}|DSDonDatHangTheoNCC\\DSDonDatHangTheoNCC.csproj|solutionrelative:dsdondathangtheoncc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70B425AF-BA92-4719-9472-023C841CD0F1}|ThemDuLieu_DB\\ThemDuLieu_DB.csproj|d:\\it-vnua\\btvd_winformcsharp\\themdulieu_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B425AF-BA92-4719-9472-023C841CD0F1}|ThemDuLieu_DB\\ThemDuLieu_DB.csproj|solutionrelative:themdulieu_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29A1620C-F2CD-425D-8FB6-EEA5EBB4C429}|DSDonDatHangTheoNCC\\DSDonDatHangTheoNCC.csproj|d:\\it-vnua\\btvd_winformcsharp\\dsdondathangtheoncc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{29A1620C-F2CD-425D-8FB6-EEA5EBB4C429}|DSDonDatHangTheoNCC\\DSDonDatHangTheoNCC.csproj|solutionrelative:dsdondathangtheoncc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{70B425AF-BA92-4719-9472-023C841CD0F1}|ThemDuLieu_DB\\ThemDuLieu_DB.csproj|d:\\it-vnua\\btvd_winformcsharp\\themdulieu_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70B425AF-BA92-4719-9472-023C841CD0F1}|ThemDuLieu_DB\\ThemDuLieu_DB.csproj|solutionrelative:themdulieu_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,25 +24,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\DSDonDatHangTheoNCC\\Form1.cs",
-              "RelativeDocumentMoniker": "DSDonDatHangTheoNCC\\Form1.cs",
-              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\DSDonDatHangTheoNCC\\Form1.cs [Design]",
-              "RelativeToolTip": "DSDonDatHangTheoNCC\\Form1.cs [Design]",
+              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ThemDuLieu_DB\\Form1.cs",
+              "RelativeDocumentMoniker": "ThemDuLieu_DB\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ThemDuLieu_DB\\Form1.cs [Design]",
+              "RelativeToolTip": "ThemDuLieu_DB\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T04:33:08.721Z",
+              "WhenOpened": "2024-05-08T08:35:35.089Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\DSDonDatHangTheoNCC\\Form1.cs",
-              "RelativeDocumentMoniker": "DSDonDatHangTheoNCC\\Form1.cs",
-              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\DSDonDatHangTheoNCC\\Form1.cs",
-              "RelativeToolTip": "DSDonDatHangTheoNCC\\Form1.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ThemDuLieu_DB\\Form1.cs",
+              "RelativeDocumentMoniker": "ThemDuLieu_DB\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ThemDuLieu_DB\\Form1.cs",
+              "RelativeToolTip": "ThemDuLieu_DB\\Form1.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAswHQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T04:24:26.412Z",
+              "WhenOpened": "2024-05-08T08:35:57.021Z",
               "EditorCaption": ""
             }
           ]
