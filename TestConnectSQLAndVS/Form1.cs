@@ -14,7 +14,7 @@ namespace TestConnectSQLAndVS
     public partial class Form1 : Form
     {
         // Tạo biến cục bộ
-        string strCon = @"Data Source=DESKTOP-R37J0MS\DUNGLTK;Initial Catalog=TestDB;Integrated Security=True;Trust Server Certificate=True";
+        string strCon = @"Data Source=DESKTOP-R37J0MS\DUNGLTK;Initial Catalog=TestDB;Integrated Security=True";
 
         // Tạo đối tượng kết nối
         SqlConnection sqlCon = null;
