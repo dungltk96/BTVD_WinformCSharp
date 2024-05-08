@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\IT-VNUA\\BTVD_WinformCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IT-VNUA\\BTVD_WinformCSharp\\ConnectVSToSQL\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConnectVSToSQL\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29A1620C-F2CD-425D-8FB6-EEA5EBB4C429}|DSDonDatHangTheoNCC\\DSDonDatHangTheoNCC.csproj|d:\\it-vnua\\btvd_winformcsharp\\dsdondathangtheoncc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A1620C-F2CD-425D-8FB6-EEA5EBB4C429}|DSDonDatHangTheoNCC\\DSDonDatHangTheoNCC.csproj|solutionrelative:dsdondathangtheoncc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BF4CFBC-1D6A-48CF-889A-7388BF3BE819}|BTTongHop\\BTTongHop.csproj|D:\\IT-VNUA\\BTVD_WinformCSharp\\bttonghop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3BF4CFBC-1D6A-48CF-889A-7388BF3BE819}|BTTongHop\\BTTongHop.csproj|solutionrelative:bttonghop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6BBC2C5-D7EF-4DFF-92BA-EDF0A380DB19}|BTTH_QLSP\\BTTH_QLSP.csproj|D:\\IT-VNUA\\BTVD_WinformCSharp\\btth_qlsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A6BBC2C5-D7EF-4DFF-92BA-EDF0A380DB19}|BTTH_QLSP\\BTTH_QLSP.csproj|solutionrelative:btth_qlsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\it-vnua\\btvd_winformcsharp\\connectvstosql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:connectvstosql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{29A1620C-F2CD-425D-8FB6-EEA5EBB4C429}|DSDonDatHangTheoNCC\\DSDonDatHangTheoNCC.csproj|d:\\it-vnua\\btvd_winformcsharp\\dsdondathangtheoncc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29A1620C-F2CD-425D-8FB6-EEA5EBB4C429}|DSDonDatHangTheoNCC\\DSDonDatHangTheoNCC.csproj|solutionrelative:dsdondathangtheoncc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,51 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ConnectVSToSQL\\Form1.cs",
-              "RelativeDocumentMoniker": "ConnectVSToSQL\\Form1.cs",
-              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ConnectVSToSQL\\Form1.cs",
-              "RelativeToolTip": "ConnectVSToSQL\\Form1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T09:11:06.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ConnectVSToSQL\\Form1.cs",
-              "RelativeDocumentMoniker": "ConnectVSToSQL\\Form1.cs",
-              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ConnectVSToSQL\\Form1.cs [Design]",
-              "RelativeToolTip": "ConnectVSToSQL\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T07:33:25.92Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\BTTongHop\\Form1.cs",
-              "RelativeDocumentMoniker": "BTTongHop\\Form1.cs",
-              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\BTTongHop\\Form1.cs [Design]",
-              "RelativeToolTip": "BTTongHop\\Form1.cs [Design]",
+              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\DSDonDatHangTheoNCC\\Form1.cs",
+              "RelativeDocumentMoniker": "DSDonDatHangTheoNCC\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\DSDonDatHangTheoNCC\\Form1.cs [Design]",
+              "RelativeToolTip": "DSDonDatHangTheoNCC\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T02:28:54.138Z"
+              "WhenOpened": "2024-05-08T04:33:08.721Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\BTTH_QLSP\\Form1.cs",
-              "RelativeDocumentMoniker": "BTTH_QLSP\\Form1.cs",
-              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\BTTH_QLSP\\Form1.cs [Design]",
-              "RelativeToolTip": "BTTH_QLSP\\Form1.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\DSDonDatHangTheoNCC\\Form1.cs",
+              "RelativeDocumentMoniker": "DSDonDatHangTheoNCC\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\DSDonDatHangTheoNCC\\Form1.cs",
+              "RelativeToolTip": "DSDonDatHangTheoNCC\\Form1.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T02:28:33.117Z"
+              "WhenOpened": "2024-05-08T04:24:26.412Z",
+              "EditorCaption": ""
             }
           ]
         }
