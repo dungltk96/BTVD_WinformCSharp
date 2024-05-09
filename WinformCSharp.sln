@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSDonDatHangTheoNCC", "DSDo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemDuLieu_DB", "ThemDuLieu_DB\ThemDuLieu_DB.csproj", "{70B425AF-BA92-4719-9472-023C841CD0F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateData_DB", "UpdateData_DB\UpdateData_DB.csproj", "{EEEDDF9F-1259-4E87-B1B1-98A5912AE889}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{70B425AF-BA92-4719-9472-023C841CD0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70B425AF-BA92-4719-9472-023C841CD0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70B425AF-BA92-4719-9472-023C841CD0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEDDF9F-1259-4E87-B1B1-98A5912AE889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEDDF9F-1259-4E87-B1B1-98A5912AE889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEDDF9F-1259-4E87-B1B1-98A5912AE889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEDDF9F-1259-4E87-B1B1-98A5912AE889}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
