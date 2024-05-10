@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\IT-VNUA\\BTVD_WinformCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70B425AF-BA92-4719-9472-023C841CD0F1}|ThemDuLieu_DB\\ThemDuLieu_DB.csproj|d:\\it-vnua\\btvd_winformcsharp\\themdulieu_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{65406688-D831-4915-88D8-AE6FB9A1E265}|BTTHEnd_DB\\BTTHEnd_DB.csproj|d:\\it-vnua\\btvd_winformcsharp\\btthend_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65406688-D831-4915-88D8-AE6FB9A1E265}|BTTHEnd_DB\\BTTHEnd_DB.csproj|solutionrelative:btthend_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B425AF-BA92-4719-9472-023C841CD0F1}|ThemDuLieu_DB\\ThemDuLieu_DB.csproj|D:\\IT-VNUA\\BTVD_WinformCSharp\\themdulieu_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B425AF-BA92-4719-9472-023C841CD0F1}|ThemDuLieu_DB\\ThemDuLieu_DB.csproj|solutionrelative:themdulieu_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B425AF-BA92-4719-9472-023C841CD0F1}|ThemDuLieu_DB\\ThemDuLieu_DB.csproj|D:\\IT-VNUA\\BTVD_WinformCSharp\\themdulieu_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{70B425AF-BA92-4719-9472-023C841CD0F1}|ThemDuLieu_DB\\ThemDuLieu_DB.csproj|solutionrelative:themdulieu_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEEDDF9F-1259-4E87-B1B1-98A5912AE889}|UpdateData_DB\\UpdateData_DB.csproj|D:\\IT-VNUA\\BTVD_WinformCSharp\\updatedata_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EEEDDF9F-1259-4E87-B1B1-98A5912AE889}|UpdateData_DB\\UpdateData_DB.csproj|solutionrelative:updatedata_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEEDDF9F-1259-4E87-B1B1-98A5912AE889}|UpdateData_DB\\UpdateData_DB.csproj|d:\\it-vnua\\btvd_winformcsharp\\updatedata_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEEDDF9F-1259-4E87-B1B1-98A5912AE889}|UpdateData_DB\\UpdateData_DB.csproj|solutionrelative:updatedata_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65406688-D831-4915-88D8-AE6FB9A1E265}|BTTHEnd_DB\\BTTHEnd_DB.csproj|D:\\IT-VNUA\\BTVD_WinformCSharp\\btthend_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65406688-D831-4915-88D8-AE6FB9A1E265}|BTTHEnd_DB\\BTTHEnd_DB.csproj|solutionrelative:btthend_db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ThemDuLieu_DB\\Form1.cs",
               "RelativeDocumentMoniker": "ThemDuLieu_DB\\Form1.cs",
               "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ThemDuLieu_DB\\Form1.cs [Design]",
               "RelativeToolTip": "ThemDuLieu_DB\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T02:22:33.793Z",
+              "WhenOpened": "2024-05-09T15:50:15.158Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\UpdateData_DB\\Form1.cs",
-              "RelativeDocumentMoniker": "UpdateData_DB\\Form1.cs",
-              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\UpdateData_DB\\Form1.cs",
-              "RelativeToolTip": "UpdateData_DB\\Form1.cs",
-              "ViewState": "AQIAALYAAAAAAAAAAAAqwMcAAABCAAAA",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\BTTHEnd_DB\\Form1.cs",
+              "RelativeDocumentMoniker": "BTTHEnd_DB\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\BTTHEnd_DB\\Form1.cs [Design]",
+              "RelativeToolTip": "BTTHEnd_DB\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:36:25.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T15:44:57.902Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\UpdateData_DB\\Form1.cs",
-              "RelativeDocumentMoniker": "UpdateData_DB\\Form1.cs",
-              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\UpdateData_DB\\Form1.cs [Design]",
-              "RelativeToolTip": "UpdateData_DB\\Form1.cs [Design]",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ThemDuLieu_DB\\Form1.cs",
+              "RelativeDocumentMoniker": "ThemDuLieu_DB\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\ThemDuLieu_DB\\Form1.cs",
+              "RelativeToolTip": "ThemDuLieu_DB\\Form1.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADgv08AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T16:36:21.502Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-09T15:52:08.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\IT-VNUA\\BTVD_WinformCSharp\\BTTHEnd_DB\\Form1.cs",
+              "RelativeDocumentMoniker": "BTTHEnd_DB\\Form1.cs",
+              "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\BTTHEnd_DB\\Form1.cs",
+              "RelativeToolTip": "BTTHEnd_DB\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:51:50.888Z",
+              "EditorCaption": ""
             }
           ]
         }
