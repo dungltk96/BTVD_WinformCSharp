@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{D401542A-3345-4E9E-9282-3BEAD6D71778}|Picturebbox\\Picturebbox.csproj|solutionrelative:picturebbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C40A36-4859-4E03-98E4-3CEFFE15FD89}|Hello\\Hello.csproj|d:\\it-vnua\\btvd_winformcsharp\\hello\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{00C40A36-4859-4E03-98E4-3CEFFE15FD89}|Hello\\Hello.csproj|D:\\IT-VNUA\\BTVD_WinformCSharp\\hello\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{00C40A36-4859-4E03-98E4-3CEFFE15FD89}|Hello\\Hello.csproj|solutionrelative:hello\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08015914-AA3E-4EBC-BFE6-92921D6652F8}|TinhTongHieu\\TinhTongHieu.csproj|d:\\it-vnua\\btvd_winformcsharp\\tinhtonghieu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{08015914-AA3E-4EBC-BFE6-92921D6652F8}|TinhTongHieu\\TinhTongHieu.csproj|D:\\IT-VNUA\\BTVD_WinformCSharp\\tinhtonghieu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08015914-AA3E-4EBC-BFE6-92921D6652F8}|TinhTongHieu\\TinhTongHieu.csproj|solutionrelative:tinhtonghieu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -90,7 +90,8 @@
               "ToolTip": "D:\\IT-VNUA\\BTVD_WinformCSharp\\TinhTongHieu\\Form1.cs [Design]",
               "RelativeToolTip": "TinhTongHieu\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T06:48:06.559Z"
+              "WhenOpened": "2024-05-10T06:48:06.559Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
